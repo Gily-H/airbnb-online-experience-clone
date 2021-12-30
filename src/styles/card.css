@@ -1,0 +1,36 @@
+.card-container {
+  position: relative;
+}
+
+.card-image {
+  height: 300px;
+  border-radius: 10px;
+}
+
+.star-img {
+  width: 20px;
+}
+
+.card-details {
+  font-size: 0.9rem;
+  color: grey;
+}
+
+.card-title {
+  max-width: 200px;
+  margin: 0.6rem 0rem;
+}
+
+.card-price {
+  font-weight: bold;
+}
+
+.card-badge {
+  position: absolute;
+  top: 6px;
+  left: 6px;
+  padding: 4px 7px;
+  background-color: white;
+  font-weight: bold;
+  border-radius: 4px;
+}

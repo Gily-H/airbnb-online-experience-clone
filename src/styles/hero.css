@@ -1,0 +1,19 @@
+.hero-section {
+  padding: 3rem;
+  display: flex;
+  flex-direction: column;
+}
+
+.hero-img {
+  width: 400px;
+  align-self: center;
+}
+
+.hero-header {
+  margin-top: 2rem;
+  font-size: 2rem;
+}
+
+.hero-text {
+  margin-top: 1rem;
+}

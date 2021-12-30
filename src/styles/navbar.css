@@ -1,0 +1,9 @@
+.logo-container {
+  display: flex;
+  padding: 2rem 4rem;
+  box-shadow: 1px 4px 7px rgba(0, 0, 0, 0.1);
+}
+
+.logo {
+  width: 130px;
+}
